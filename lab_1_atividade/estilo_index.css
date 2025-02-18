@@ -1,0 +1,15 @@
+#p1{
+    color:red;
+}
+
+.tag_azul:hover{
+    background-color: darkcyan;
+}
+
+body{
+    background-color: rgb(123, 180, 182);
+}
+
+#p2:visited{
+    color:red;
+}

@@ -1,0 +1,15 @@
+#p1{
+    color:orange;
+}
+
+.tag_azul{
+    color:blue;
+}
+
+.tag_azul:hover{
+    background-color: green;
+}
+
+li{
+    color:red;
+}
