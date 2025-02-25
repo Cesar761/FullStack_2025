@@ -13,3 +13,11 @@ body{
 #p2:visited{
     color:red;
 }
+
+.nome:hover{
+    background-color: antiquewhite;
+}
+
+.info{
+    color: orangered
+}
