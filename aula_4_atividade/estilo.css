@@ -1,0 +1,24 @@
+#d1{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: purple;
+}
+
+.header2{
+    display: flex;
+    color: white;
+    background-color: purple;
+}
+
+.lego{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.filme{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
