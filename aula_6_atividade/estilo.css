@@ -1,5 +1,12 @@
 body{
+    background-color: burlywood;
     display: flex;
     justify-content: center;
-    background-color: burlywood;
+    align-items: center;
+}
+
+#resultado{
+    font-size: 18pt;
+    text-align: center;
+    width: 250px;
 }
