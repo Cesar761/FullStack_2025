@@ -95,27 +95,27 @@ desenhar_quadrado(ctx, 275, 250, 25, 'black');
 desenhar_quadrado(ctx, 275, 275, 25, 'black');
 desenhar_quadrado(ctx, 250, 275, 25, 'black');
 
-desenhar_quadrado(ctx, 0, 125, 25, 'aqua')
-desenhar_quadrado(ctx, 0, 150, 25, 'aqua')
+desenhar_quadrado(ctx, 0, 125, 25, 'aqua');
+desenhar_quadrado(ctx, 0, 150, 25, 'aqua');
 
-desenhar_quadrado(ctx, 275, 137.5, 25, 'aqua')
+desenhar_quadrado(ctx, 275, 137.5, 25, 'aqua');
 
-desenhar_quadrado(ctx, 115, 150, 35, 'red')
+desenhar_quadrado(ctx, 115, 150, 35, 'red');
 
-desenhar_linha(ctx, 45, 45, 150, 150, 'blue')
+desenhar_linha(ctx, 45, 45, 150, 150, 'blue');
 
-desenhar_linha(ctx, 255, 45, 150, 150, 'red')
+desenhar_linha(ctx, 255, 45, 150, 150, 'red');
 
-desenhar_linha(ctx, 0, 150, 300, 150, 'green')
+desenhar_linha(ctx, 0, 150, 300, 150, 'green');
 
-desenhar_linha(ctx, 150, 150, 150, 255, 'black')
+desenhar_linha(ctx, 150, 150, 150, 255, 'black');
 
-desenhar_circulo(ctx, 150, 300, 45, 'aqua', 'green')
+desenhar_circulo(ctx, 150, 300, 45, 'aqua', 'green');
 
-desenhar_circulo(ctx, 60, 220, 15, 'yellow', 'green')
-desenhar_circulo(ctx, 240, 220, 15, 'yellow', 'green')
+desenhar_circulo(ctx, 60, 220, 15, 'yellow', 'green');
+desenhar_circulo(ctx, 240, 220, 15, 'yellow', 'green');
 
-desenhar_circulo(ctx, 150, 110, 15, 'aqua', 'blue')
+desenhar_circulo(ctx, 150, 110, 15, 'aqua', 'blue');
 
 desenhar_arco(ctx, 150, 300, 60, 1.5*Math.PI, 1*Math.PI, 'green');
 
@@ -134,23 +134,23 @@ drawText(ctx, "Canvas", 150, 50, font = '20px Arial', 'black')
 let canvas2 = document.getElementById('canvas2');
 let ctx2 = canvas2.getContext('2d');
 
-desenhar_quadrado(ctx2, 0, 0, 300, 'aquamarine')
+desenhar_quadrado(ctx2, 0, 0, 300, 'aquamarine');
 
-desenhar_retangulo(ctx2, 0, 220, 300, 80, 'gray')
-desenhar_retangulo(ctx2, 0, 220, 30, 80, 'dodgerblue')
-desenhar_retangulo(ctx2, 0, 265, 85, 35, 'dodgerblue')
-desenhar_retangulo(ctx2, 30, 175, 20, 45, 'saddlebrown')
-desenhar_retangulo(ctx2, 110, 132, 80, 88, 'saddlebrown')
-desenhar_retangulo(ctx2, 140, 170, 20, 50, '#684424')
-desenhar_retangulo(ctx2, 245, 225, 20, 45, 'saddlebrown')
+desenhar_retangulo(ctx2, 0, 220, 300, 80, 'gray');
+desenhar_retangulo(ctx2, 0, 220, 30, 80, 'dodgerblue');
+desenhar_retangulo(ctx2, 0, 265, 85, 35, 'dodgerblue');
+desenhar_retangulo(ctx2, 30, 175, 20, 45, 'saddlebrown');
+desenhar_retangulo(ctx2, 110, 132, 80, 88, 'saddlebrown');
+desenhar_retangulo(ctx2, 140, 170, 20, 50, '#684424');
+desenhar_retangulo(ctx2, 245, 225, 20, 45, 'saddlebrown');
 
-desenhar_circulo(ctx2, -20, 220, 50, 'dodgerblue')
-desenhar_circulo(ctx2, 90, 300, 35, 'dodgerblue')
-desenhar_circulo(ctx2, 40, 155, 25, 'green')
-desenhar_circulo(ctx2, 230, 60, 35, 'yellow')
-desenhar_circulo(ctx2, 255, 210, 25, 'green')
+desenhar_circulo(ctx2, -20, 220, 50, 'dodgerblue');
+desenhar_circulo(ctx2, 90, 300, 35, 'dodgerblue');
+desenhar_circulo(ctx2, 40, 155, 25, 'green');
+desenhar_circulo(ctx2, 230, 60, 35, 'yellow');
+desenhar_circulo(ctx2, 255, 210, 25, 'green');
 
-desenhar_quadrado(ctx2, 120, 150, 20, 'skyblue')
-desenhar_quadrado(ctx2, 160, 150, 20, 'skyblue')
+desenhar_quadrado(ctx2, 120, 150, 20, 'skyblue');
+desenhar_quadrado(ctx2, 160, 150, 20, 'skyblue');
 
-desenhar_triangulo(ctx2, 110, 132, 190, 132, 150, 90, 'salmon')
+desenhar_triangulo(ctx2, 110, 132, 190, 132, 150, 90, 'salmon');
