@@ -29,7 +29,7 @@ ctx.beginPath();
 ctx.lineWidth = 5;
 ctx.fillStyle = 'blue';
 ctx.strokeStyle = 'red';
-ctx.arc(200,200,50,0*Math.PI,2*Math.PI);
+ctx.arc(200,200,50,0*Math.PI,0.5*Math.PI);
 ctx.fill();
 ctx.stroke();
 ctx.closePath();
