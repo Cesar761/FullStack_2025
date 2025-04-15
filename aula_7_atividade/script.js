@@ -154,5 +154,3 @@ desenhar_quadrado(ctx2, 120, 150, 20, 'skyblue')
 desenhar_quadrado(ctx2, 160, 150, 20, 'skyblue')
 
 desenhar_triangulo(ctx2, 110, 132, 190, 132, 150, 90, 'salmon')
-
-
